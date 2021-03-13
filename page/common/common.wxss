@@ -4,5 +4,12 @@ page{
     font-size: 32rpx;
 }
 .navigator-hover{
+
+
+
+
+
+
+  
     background: none;
 }
