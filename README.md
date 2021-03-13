@@ -16,7 +16,6 @@
 - [x] 商品列表
 - [x] 商品详情
 - [x] 订单
-- [x] 地址管理
 
 ## 实现效果
 ![image](https://raw.githubusercontent.com/lin-xin/mini-apps-mall/master/image/1.jpg) 
